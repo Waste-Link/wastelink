@@ -1,4 +1,6 @@
 .bg-primary {
   /*background-color: #f05f40 !important;*/
 }
-
+.text-uppercase  {
+  font-size: 60px;
+}
